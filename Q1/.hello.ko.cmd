@@ -1,0 +1,1 @@
+cmd_/home/anusha12/ELDD_EXAM_210950330025/Q1/hello.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/anusha12/ELDD_EXAM_210950330025/Q1/hello.ko /home/anusha12/ELDD_EXAM_210950330025/Q1/hello.o /home/anusha12/ELDD_EXAM_210950330025/Q1/hello.mod.o;  true
